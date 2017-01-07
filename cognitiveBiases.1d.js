@@ -7,7 +7,7 @@
 # <bitbar.author.github>https://github.com/LeonLiber/cognitive-bias-a-day</bitbar.author.github>
 # <bitbar.desc>A BitBar ❤️ plugin showing you a fresh cognitive bias every day 🙊</bitbar.desc>
 # <bitbar.image>https://raw.githubusercontent.com/LeonLiber/cognitive-bias-a-day/master/screenshot.png</bitbar.image>
-# <bitbar.dependencies>python,ruby,node</bitbar.dependencies>
+# <bitbar.dependencies>npm install bitbar wikipedia-js striptags</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/LeonLiber/cognitive-bias-a-day</bitbar.abouturl>
 */
 
